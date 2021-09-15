@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Vrinda</h1>
-<h3 align="center">"If we have data, let’s look at data. If all we have are opinions, let’s go with mine"</h3>
+<h2 align="center">What's your problem?</h2>
+<h3 align="center">(Waste no time,bring in the data XD)</h3>
 
 <hr>
 

@@ -7,9 +7,10 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
-- 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
-
 <img align="right" alt="Gif" width=250 src="https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47zawka49unruq3w5ct0wbk59ent8ko5jzyh82bqn5&rid=giphy.gif&ct=g">
+
+
+- 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
 
 - 💬 I can help you with: **R,Python,SQL and Tableau**
 

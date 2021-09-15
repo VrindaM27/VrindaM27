@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vrinda</h1>
+<h1 align="center">Hi There 👋, I'm Vrinda</h1>
 <h3 align="center">"If we have data, let’s look at data. If all we have are opinions, let’s go with mine"</h3>
 
 <hr>

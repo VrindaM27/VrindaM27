@@ -16,7 +16,7 @@
 
 - 📫 Reach out to me: **vrindamoff@gmail.com**
 
-- ⚡ Fun fact: **McDonald’s once made bubblegum-flavored broccoli XD**
+- ⚡ Fun fact: **The scientific term for brain freeze is “sphenopalatine ganglioneuralgia XD"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

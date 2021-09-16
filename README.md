@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning: **Advanced Database Concepts and SQL**
+- 🌱 I’m currently brushing up my **Advanced Database Concepts and SQL skills**
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 

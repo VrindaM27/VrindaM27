@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently brushing up my **Advanced Database Concepts and SQL skills**
+- 🌱 I’m currently brushing up my **Data Structures and Algorithms**
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
 
-- 💬 I can help you with: **R,Python,SQL and Tableau**
+- 💬 I can help you with: **C/C++,Python**
 
 - 📫 Reach out to me: **vrindamoff@gmail.com**
 

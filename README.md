@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently brushing up my **Data Structures and Algorithms**
 
-<img align="right" alt="Gif" width=300 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Gif" width=300 src="https://media2.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b95268d65d2c995e864e13849f39cdbf570629561b36&rid=giphy.gif&ct=s">
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 

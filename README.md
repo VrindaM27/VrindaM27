@@ -8,7 +8,7 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
-<img align="right" alt="Gif" width=150 src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+<img align="right" alt="Gif" width=150 src="<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)

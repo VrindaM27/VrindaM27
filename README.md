@@ -1,6 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Vrinda</h1>
-<h2 align="center">What's your problem?</h2>
-<h3 align="center">(Waste no time,bring in the data XD)</h3>
+<h2 align="center">With code, I create magic</h2>
 
 <hr>
 
@@ -12,15 +11,13 @@
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
 
-- 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
+- 📄 A little more about myself: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
 
-- 💬 I can help you with: **C/C++,Python**
+- 💬 I'd be glad to help you with: **C/C++,Python**
 
-- 📫 Reach out to me: **vrindamoff@gmail.com**
+- 📫 Wanna talk? Reach out to me: **vrindamoff@gmail.com**
 
-- ⚡ Fun fact: **The scientific term for brain freeze is “sphenopalatine ganglioneuralgia"**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Join my professional network:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vm27" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle.com/vrindamarwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/vrindamarwah" height="30" width="40" /></a>

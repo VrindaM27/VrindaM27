@@ -8,7 +8,7 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
-<img align="right" alt="Gif" width=250 src="https://miro.medium.com/max/700/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Gif" width=250 src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)

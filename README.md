@@ -8,7 +8,7 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
-<img align="right" alt="Gif" width=300 src="https://camo.githubusercontent.com/4f76db7a5636836e6d49345faef0413db6ab6ac172f7529afd30abf3631b9ba5/68747470733a2f2f726573756c74706564696162642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6d652e676966">
+<img align="right" alt="Gif" width=300 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)

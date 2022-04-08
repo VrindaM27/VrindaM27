@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently brushing up my **Data Structures and Algorithms**
 
-- 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
-
 <img align="right" alt="Gif" width=300 src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
+- 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)

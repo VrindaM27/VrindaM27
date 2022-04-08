@@ -8,7 +8,7 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
-<img align="right" alt="Gif" width=150 src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<img align="right" alt="Gif" width=150 src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
 
 
 - 📄 Know more about me: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)

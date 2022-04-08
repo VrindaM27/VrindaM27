@@ -10,12 +10,11 @@
 
 - 👨‍💻 Have a look at my work: [https://github.com/VrindaM27](https://github.com/VrindaM27)
 
+- 📫 A little more about myself: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
 
-- 📄 A little more about myself: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
+- 📄 I write code in : **C/C++, Python** 
 
-- 💬 I'd be glad to help you with: **C/C++,Python,SQL**
-
-- 📫 Wanna talk? Reach out to me: **vrindamoff@gmail.com**
+- 💬 Wanna talk? Reach out to me: **vrindamoff@gmail.com**
 
 <h3 align="left">Join my professional network:</h3>
 <p align="left">

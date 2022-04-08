@@ -13,7 +13,7 @@
 
 - 📄 A little more about myself: [https://vrindamarwah27.wixsite.com/vrindam](https://vrindamarwah27.wixsite.com/vrindam)
 
-- 💬 I'd be glad to help you with: **C/C++,Python**
+- 💬 I'd be glad to help you with: **C/C++,Python,SQL**
 
 - 📫 Wanna talk? Reach out to me: **vrindamoff@gmail.com**
 

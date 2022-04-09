@@ -12,7 +12,7 @@
 
 - 📄 I write code in : **C/C++, Python** 
 
-- 💬 Join my professional network: **https://linkedin.com/in/www.linkedin.com/in/vm27**
+- 💬 Join my professional network: **https://www.linkedin.com/in/vm27**
  
 
 <h3 align="left">Languages and Tools:</h3>

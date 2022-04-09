@@ -15,9 +15,8 @@
 - 💬 Wanna talk? Reach out to me: **vrindamoff@gmail.com**
  
 
-<h3 align="left">Join my professional network:</h3>
+<h3 align="left">Join my professional network:<a href="https://linkedin.com/in/www.linkedin.com/in/vm27" target="blank"></a></h3>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/vm27" target="blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
